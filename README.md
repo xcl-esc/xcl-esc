@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xcl-esc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcl-esc&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
+</div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xcl-esc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph" />
 </div>
 
@@ -47,7 +48,3 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/xcl-esc/xcl-esc/output/snake.svg" alt="Snake animation" />
-</div>
