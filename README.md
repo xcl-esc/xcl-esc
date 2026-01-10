@@ -2,11 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xcl-esc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcl-esc&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xcl-esc&theme=dracula" height="150" />
 
 ###
 
