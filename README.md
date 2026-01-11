@@ -117,7 +117,18 @@
 <div align="center">
   <samp><b>Tech Stack</b></samp>
   <br>
-  <img width="40" src="https://skillicons.dev/icons?i=py,django,flask,selenium,pandas,mysql,postgres,sqlite,html,css,js,git" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg" alt="Selenium">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Pandas-Dark.svg" alt="Pandas">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="Postgres">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" alt="SQLite">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JS">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git">
 </div>
 
 <br>
